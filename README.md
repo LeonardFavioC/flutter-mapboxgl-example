@@ -35,6 +35,10 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.io/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Suport
+### ios
+if you get errors with  CFBundleVersion or CFBundleShortVersionString set its value directly with  10.14.1. as shown here (https://developer.apple.com/documentation/bundleresources/information_property_list/cfbundleversion?language=objc) check (https://stackoverflow.com/questions/56450295/cannot-run-application-on-simulator-after-installing-xcode-11-cfbundleversion/56481486#56481486)
